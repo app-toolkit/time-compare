@@ -1,0 +1,13 @@
+{
+  "pluginName": "time-compare",
+  "version": "1.0.0",
+  "description": "国际时间时区对比",
+  "keywords": [
+    "web"
+  ],
+  "entry": "index.html",
+  "pluginType": "ui",
+  "mode": "multi",
+  "author": "",
+  "homepage": "https://github.com/app-toolkit/time-compare"
+}
